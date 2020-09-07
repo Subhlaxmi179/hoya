@@ -7,8 +7,8 @@ body{
 }
 .celeb{
   position:relative;
-  right:170px;
-  top:-170px;
+  right:100px;
+  top:-300px;
   height:80px;
   width:100px;
 }
@@ -28,8 +28,8 @@ body{
 }
 .cake{
   position:relative;
-  right:95px;
-  top:-300px;
+  right:195px;
+  top:-400px;
   height:120px;
   width:130px;
 }
