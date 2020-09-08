@@ -8,10 +8,10 @@
   left:0;
 }
 . middle{
+  background-color: blue;
   margin: 0;
-  background-color : blue;
   position:absolute;
-  height : 600px;
+  height:600px;
   width:1510px;
   top:1100px;
   left:0;
