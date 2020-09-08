@@ -8,11 +8,12 @@ height:1000.5px;
   left:0;
 }
 . middle{
-background-color : blue
+  margin: 0;
+background-color : blue;
 position:absolute;
 Height : 600px;
   width:1510px;
-  top:13000;
+  top:1100px;
   left:0;
 } 
 .celeb{
