@@ -1,13 +1,14 @@
-. top{
+. topc{
+  Padding :0;
   background-color: black;
   margin: 0;
   position:absolute;
-  height:1500.5px;
+  height:2000.5px;
   width:1510px;
   top:0;
   left:0;
 }
-. middle{
+. middlec{
   background-color: blue;
   margin: 0;
   position:absolute;
@@ -48,5 +49,4 @@
     position:relative;
     height:660.5px;
     width:1510px;
-    opacity:5;
 }
