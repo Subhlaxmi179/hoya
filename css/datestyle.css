@@ -2,16 +2,16 @@
   background-color: black;
   margin: 0;
   position:absolute;
-height:1000.5px;
+  height:1500.5px;
   width:1510px;
   top:0;
   left:0;
 }
 . middle{
   margin: 0;
-background-color : blue;
-position:absolute;
-Height : 600px;
+  background-color : blue;
+  position:absolute;
+  height : 600px;
   width:1510px;
   top:1100px;
   left:0;
@@ -26,7 +26,7 @@ Height : 600px;
 .cheers{
   position:relative;
   right:400px;
-  top:200px;
+  top:100px;
   height:150px;
   width:150px;
 }
