@@ -38,6 +38,8 @@ body{
   left:300px;
   top:-666px;
 }
+p
+{font-family: 'Cookie', cursive;}
 .cake{
   position:relative;
   right:195px;
