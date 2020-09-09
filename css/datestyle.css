@@ -1,22 +1,19 @@
-. topc{
-  Padding :0;
+.topc{
   background-color: black;
   margin: 0;
+  height: 900px;
   position:absolute;
-  height:2000.5px;
-  width:1510px;
   top:0;
   left:0;
 }
-. middlec{
-  background-color: blue;
+.middlec{
+  background-color: bisque;
   margin: 0;
   position:absolute;
-  height:600px;
-  width:1510px;
-  top:1100px;
+  top:900px;
   left:0;
-} 
+  width:1510px;
+}
 .celeb{
   position:relative;
   right:350px;
